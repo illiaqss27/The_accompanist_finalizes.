@@ -19,3 +19,4 @@
 "Commit The program flies." 
 "Commit The networking freezes." 
 "Commit The oboe processes." 
+"Commit The property destroys." 
